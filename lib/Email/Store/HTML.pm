@@ -16,7 +16,7 @@ use HTML::Parser;
 use Digest::MD5 qw(md5_hex);
 use vars qw($VERSION @allow @rules @default);
 
-$VERSION = "0.3";
+$VERSION = "0.301";
 
 
 sub on_store_order { 2 }
